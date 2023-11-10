@@ -8,7 +8,7 @@ const NavbarWithSearchBar = () => {
     <Navbar fluid={true}>
       <Navbar.Container className="flex items-center justify-between">
         <Navbar.Brand>
-          <Image src="/images/  next_ui.png" alt="keep" width="100" height="40" />
+          <Image src="/images/next_ui.png" alt="keep" width="100" height="40" />
         </Navbar.Brand>
 
         <Navbar.Container className="flex items-center gap-6">
@@ -64,7 +64,7 @@ export const NavbarComponent = () => {
       <Navbar.Container className="flex items-center justify-between">
         <Navbar.Brand>
           <Image
-            src="/images/  next_ui.png"
+            src="/images/next_ui.png"
             alt="keep"
             width="100"
             height="40"

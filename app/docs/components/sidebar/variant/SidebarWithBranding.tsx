@@ -5,7 +5,7 @@ import { Chat, Handbag, ShoppingBagOpen, ShoppingCart, SignIn, SquaresFour, User
 const SidebarWithBranding = () => {
   return (
     <Sidebar aria-label="Sidebar with multi-level dropdown example" className="max-w-xs">
-      <Sidebar.Logo href="" img="/images/  next_ui.png" imgAlt="Keep logo" />
+      <Sidebar.Logo href="" img="/images/next_ui.png" imgAlt="Keep logo" />
       <Sidebar.Items>
         <Sidebar.ItemGroup>
           <Sidebar.Item href="#" icon={<SquaresFour size={24} />}>
@@ -54,7 +54,7 @@ import {
 export const SidebarComponent = () => {
   return (
     <Sidebar aria-label="Sidebar with multi-level dropdown example">
-      <Sidebar.Logo href="" img="/images/  next_ui.png" imgAlt="Keep logo" />
+      <Sidebar.Logo href="" img="/images/next_ui.png" imgAlt="Keep logo" />
       <Sidebar.Items>
         <Sidebar.ItemGroup>
           <Sidebar.Item href="#" icon={<SquaresFour size={24} />}>

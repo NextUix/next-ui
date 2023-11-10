@@ -12,7 +12,7 @@ const EcommerceNavbar = () => {
           <Navbar.Link linkName="Best Sellers" />
         </Navbar.Container>
         <Navbar.Brand>
-          <Image src="/images/  next_ui.png" alt="keep" width="100" height="40" />
+          <Image src="/images/next_ui.png" alt="keep" width="100" height="40" />
         </Navbar.Brand>
 
         <Navbar.Collapse collapseType="sidebar">
@@ -63,7 +63,7 @@ export const NavbarComponent = () => {
         </Navbar.Container>
         <Navbar.Brand>
           <Image
-            src="/images/  next_ui.png"
+            src="/images/next_ui.png"
             alt="keep"
             width="100"
             height="40"

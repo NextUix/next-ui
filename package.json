@@ -25,7 +25,7 @@
   "types": "./lib/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "  next_ui.png.com/StaticMania/keep-react"
+    "url": " next_ui.png.com/StaticMania/keep-react"
   },
   "scripts": {
     "dev": "next dev",

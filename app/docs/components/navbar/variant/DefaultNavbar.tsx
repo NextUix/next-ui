@@ -9,7 +9,7 @@ const DefaultNavbar = () => {
       <Navbar.Container className="flex items-center justify-between">
         <Navbar.Container className="flex items-center">
           <Navbar.Brand>
-            <Image src="/images/  next_ui.png" alt="keep" width="100" height="40" />
+            <Image src="/images/next_ui.png" alt="keep" width="100" height="40" />
           </Navbar.Brand>
           <Navbar.Divider></Navbar.Divider>
           <Navbar.Container tag="ul" className="hidden items-center justify-between gap-8 lg:flex">
@@ -58,7 +58,7 @@ export const NavbarComponent = () => {
         <Navbar.Container className="flex items-center">
           <Navbar.Brand>
             <Image
-              src="/images/  next_ui.png"
+              src="/images/next_ui.png"
               alt="keep"
               width="100"
               height="40"

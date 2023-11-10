@@ -33,7 +33,7 @@ const Navbar = () => {
         <nav className="flex items-center justify-between py-4">
           <div className="flex items-center space-x-28">
             <Link href="/" className="flex">
-              <Image width={130} src="/images/  next_ui.png" height={53} alt="Keep React" />
+              <Image width={130} src="/images/next_ui.png" height={53} alt="Keep React" />
             </Link>
             <div className="hidden lg:ml-auto lg:flex lg:items-center lg:space-x-10">
               {navbarRoutes.map((nav) => (

@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="flex flex-col items-start justify-between gap-8 md:flex-row md:items-center md:gap-0">
           <div>
             <Link href="/" className="flex">
-              <Image width="113" height="40" src="/images/  next_ui.png" alt="Keep React" />
+              <Image width="113" height="40" src="/images/next_ui.png" alt="Keep React" />
             </Link>
             <p className="mt-6 max-w-lg text-base font-normal leading-[22px] tracking-[-0.3px] text-slate-700">
               Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile
